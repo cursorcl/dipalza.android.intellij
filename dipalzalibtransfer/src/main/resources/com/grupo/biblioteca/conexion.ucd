@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="conexion" size="713,257" id="" metadata="uml2-1.0" initialized="true" tag="10" key="32303037303533312D3130204269626C696F746563615472616E73666572656E636961">
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.1/@sourceConnections.0" name="ConnectionClient" location="153,75" size="157,261" id="com.grupo.biblioteca.server/ConnectionClient">
+    <children xsi:type="editmodel:CompartmentEditModel" size="73,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="log" id="com.grupo.biblioteca.server/ConnectionClient#log"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="110,180">
+      <children xsi:type="editmodel:MethodEditModel" name="ConnectionClient" id="com.grupo.biblioteca.server/ConnectionClient#ConnectionClient(Ljava.net.Socket;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ConnectionClient" id="com.grupo.biblioteca.server/ConnectionClient#ConnectionClient(Ljava.net.Socket;Lcom.grupo.biblioteca.server.events.Notificable;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ConnectionClient" id="com.grupo.biblioteca.server/ConnectionClient#ConnectionClient(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="ConnectionClient" id="com.grupo.biblioteca.server/ConnectionClient#ConnectionClient(Ljava.lang.String;Lcom.grupo.biblioteca.server.events.Notificable;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="disconnect" id="com.grupo.biblioteca.server/ConnectionClient#disconnect()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSource" id="com.grupo.biblioteca.server/ConnectionClient#getSource()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isConnected" id="com.grupo.biblioteca.server/ConnectionClient#isConnected()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="com.grupo.biblioteca.server/ConnectionClient#run()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="send" id="com.grupo.biblioteca.server/ConnectionClient#send(Ljava.util.Vector;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="send" id="com.grupo.biblioteca.server/ConnectionClient#send(Lcom.grupo.biblioteca.MessageToTransmit;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ConnectionServer" location="477,103" size="157,171" id="com.grupo.biblioteca.server/ConnectionServer">
+    <children xsi:type="editmodel:CompartmentEditModel" size="73,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="log" id="com.grupo.biblioteca.server/ConnectionServer#log"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="117,90">
+      <children xsi:type="editmodel:MethodEditModel" name="ConnectionServer" id="com.grupo.biblioteca.server/ConnectionServer#ConnectionServer()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="finish" id="com.grupo.biblioteca.server/ConnectionServer#finish()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="handle" id="com.grupo.biblioteca.server/ConnectionServer#handle(Ljava.util.EventObject;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="run" id="com.grupo.biblioteca.server/ConnectionServer#run()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="start" id="com.grupo.biblioteca.server/ConnectionServer#start()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="com.grupo.biblioteca.server/ConnectionServer-Standard::Instantiate->com.grupo.biblioteca.server/ConnectionClient" source="//@children.1" target="//@children.0" targetEnd="//@children.1/@sourceConnections.0/@children.2" label="//@children.1/@sourceConnections.0/@children.0" sourceEnd="//@children.1/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Instantiate»" size="61,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,85" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="157,113"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=7;Product=eUML2" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>

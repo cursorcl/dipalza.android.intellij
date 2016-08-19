@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menu_inicializacion.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menu_inicializacion.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menu_transmision.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menu_transmision.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menuproducto.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menuproducto.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menudetalle.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menudetalle.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menuencabezado.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menuencabezado.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menumaindipalza.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menumaindipalza.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\menu\\menuventas.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\menu\\menuventas.xml"
+    }
+]

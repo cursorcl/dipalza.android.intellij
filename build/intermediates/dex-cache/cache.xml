@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="def7a05e9c911a6ddbcf8172ba7dec2806181308">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\pre-dexed\debug\instant-run-bootstrap_be7698fbce315dba40acc0f6b77da5087b2f832a.jar" />
+    </item>
+    <item
+        jar="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="75d6bfc5b4df879f29c6b685d2fd92425b6fdbb4">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\pre-dexed\debug\instant-run_6c7b158e7ccdbb6dadc82f59d99f83fb7c4d47a5.jar" />
+    </item>
+
+</items>

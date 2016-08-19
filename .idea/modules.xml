@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dipalza.android.intellij.iml" filepath="$PROJECT_DIR$/dipalza.android.intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dipalzaandroid/dipalzaandroid.iml" filepath="$PROJECT_DIR$/dipalzaandroid/dipalzaandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dipalzalibtransfer/dipalzalibtransfer.iml" filepath="$PROJECT_DIR$/dipalzalibtransfer/dipalzalibtransfer.iml" />
+    </modules>
+  </component>
+</project>

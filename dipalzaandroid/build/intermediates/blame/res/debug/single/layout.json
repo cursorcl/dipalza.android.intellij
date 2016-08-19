@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\ventasresumen.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\ventasresumen.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\row_detalle_venta.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\row_detalle_venta.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\recibe_clientes_productos.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\recibe_clientes_productos.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\emite_ventas.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\emite_ventas.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\list.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\productos.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\productos.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\inicializacion.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\inicializacion.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\row_test.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\row_test.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\clientes.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\clientes.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\ventadetalle.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\ventadetalle.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\ventaregistros.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\ventaregistros.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\title_recepcion.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\title_recepcion.xml"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\layout\\ventaencabezado.xml",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\layout\\ventaencabezado.xml"
+    }
+]

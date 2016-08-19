@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_grabar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_grabar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_cliente.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_cliente.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tab_btn_recibir_unselected.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_tab_btn_recibir_unselected.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_modificar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_modificar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_agregar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_agregar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_eliminar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_eliminar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_aceptar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_aceptar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_detalle_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_detalle_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_cancelar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancelar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tab_title.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_tab_title.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tab_btn_recibir_selected.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_tab_btn_recibir_selected.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_eliminar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_eliminar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_eliminar_venta_dos.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_eliminar_venta_dos.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mnu_emitir.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_mnu_emitir.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_limpiar.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_limpiar.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_cancelar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_cancelar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_detalle_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_detalle_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_recibir.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_recibir.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_agregar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_agregar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_modificar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_modificar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_modificar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_modificar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_terminar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_terminar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_cancelar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_cancelar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_emitir.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_emitir.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_terminar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_terminar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_grabar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_grabar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_eliminar_venta_dos.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_eliminar_venta_dos.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_eliminar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_eliminar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\header.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\header.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_agregar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_agregar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_cancelar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_cancelar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mnu_recibir.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_mnu_recibir.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_eliminar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_eliminar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_aceptar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_aceptar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_agregar_venta.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher_agregar_venta.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_grabar.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_grabar.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_modificar_producto.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_modificar_producto.png"
+    },
+    {
+        "merged": "O:\\dipalza.android.intellij\\dipalzaandroid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_cliente.png",
+        "source": "O:\\dipalza.android.intellij\\dipalzaandroid\\src\\main\\res\\drawable-xhdpi\\ic_menu_cliente.png"
+    }
+]

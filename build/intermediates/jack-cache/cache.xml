@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\apps\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\jill\debug\packaged\support-v4-18.0.0-3204157d7789f040e795debbeeb32eded02a5e43.jar" />
+    </item>
+    <item
+        jar="C:\apps\Android\Sdk\platforms\android-10\android.jar"
+        revision="24.0.1"
+        sha1="b50d42b32e1d8a6c2d5f19a846474d5e2199c68e">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\jill\debug\runtime\android-903dde54a48f9197de164a0f63dbf5b0302c7cad.jar" />
+    </item>
+    <item
+        jar="C:\apps\Android\Sdk\tools\support\annotations.jar"
+        revision="24.0.1"
+        sha1="5dde7ffe8ff52901e20d4fde62c049e02016a10e">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\jill\debug\runtime\annotations-f045e8b0a59df6f5e1b8719de0ab138f713e2300.jar" />
+    </item>
+    <item
+        jar="O:\dipalza.android.intellij\dipalzalibtransfer\build\libs\dipalzalibtransfer.jar"
+        revision="24.0.1"
+        sha1="2a1e73eca17749b4f0d31b682e573cb863432702">
+        <dex dex="O:\dipalza.android.intellij\dipalzaandroid\build\intermediates\jill\debug\packaged\dipalzalibtransfer-9edc1e4e872a6cfeb07f1bde5c315fd5b53654ed.jar" />
+    </item>
+
+</items>
